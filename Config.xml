@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <IsEncrypted>N</IsEncrypted>
+  <Username>SBNL\Administrator</Username>
+  <Password>Sundr1$s#bgn</Password>
+  <NavWebService>http://sbnl-nav.sbnl:8047/SBNLCRP/WS/Sundries%20Bargains%20%28Nairobi%29Ltd/Codeunit/KRAEInvoicingIntegration</NavWebService>
+  <ServiceTimerInterval>10000</ServiceTimerInterval>
+  <Folderpath>C:\FBtemp\Ticket\Sent\</Folderpath>
+  <Uploaded>C:\FBtemp\invoicebackup\</Uploaded>
+  <Imagepath>C:\FBtemp\Imagepath\QRpath\</Imagepath>
+  <QRpath>C:\FBtemp\Imagepath\Uploaded\</QRpath>
+</Settings>
